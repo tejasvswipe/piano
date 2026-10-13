@@ -1,4 +1,5 @@
 # piano.
+<img width="883" height="386" alt="image" src="https://github.com/user-attachments/assets/4bfabcf1-cc2c-4b44-9507-c192149ac250" />
 
 ### A tiny, self-contained browser piano made for the SHRINK challenge.
 
